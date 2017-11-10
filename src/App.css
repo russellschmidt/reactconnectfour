@@ -34,20 +34,19 @@
 }
 
 .game-board table {
-  border-spacing: 2px;
   margin: 0 auto;
   padding: 1vw;
 }
 
 .game-board td {
   border: 1px dotted #888;
-  height: 5vh;
-  width: 6vw;
+  height: 20px;
 }
 
 .game-board button {
   width: 100%;
   height: 100%;
   background-color: #ccc;
+  font-size: 0.5rem;
 }
 
